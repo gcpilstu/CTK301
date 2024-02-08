@@ -1,0 +1,51 @@
+#mainone {
+    color:lime;
+}
+
+#iftwo {
+    color: darkred;
+}
+
+.info {
+    color:black;
+    background-color:goldenrod ;
+}
+
+
+
+a:link {
+    color:red;
+
+}
+
+
+a:visited {
+    color:green;
+
+}
+
+a:hover {
+    color: #ffff00;
+
+}
+
+
+
+#headertwo {
+    color:blueviolet;
+
+}
+
+.threeheader {
+    color: hotpink;
+
+}
+
+.twoheader {
+    color:purple;
+
+}
+
+#headerthreeone {
+    color:salmon;
+}
