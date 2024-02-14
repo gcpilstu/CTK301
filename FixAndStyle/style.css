@@ -1,0 +1,62 @@
+header {
+    background-color:#AC9CFB;
+}
+
+#skyhead{
+    color:white;
+
+}
+
+#head2 {
+    color:#593AF7;
+}
+
+#specialp {
+    color: orange;
+}
+
+
+#h3 {
+    background-color: yellow;
+}
+
+#p3 {
+    color:red;
+
+
+}
+
+#h4 {
+    background-color: darkgreen;
+    color: yellow;
+}
+
+
+#ppp {
+    background-color: lime;
+}
+
+#h5 {
+    color: red;
+    background-color: yellow;
+}
+
+#pp {
+    background-color: yellow;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+  }
+  
+
+  
+ 
+  a:hover {
+    color:red;
+    text-decoration: underline;
+
+    
+  }      
+
