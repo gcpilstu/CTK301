@@ -1,0 +1,73 @@
+h1 {
+color: orange;
+font: normal 20px italic 
+}
+
+
+
+
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pageone {
+    text-align: center;
+}
+
+.pagetwo {
+    text-align: justify;
+}
+
+
+#mainone {
+    color:lime;
+}
+
+#iftwo {
+    color: darkred;
+}
+
+.info {
+    color:black;
+    background-color:goldenrod ;
+}
+
+
+
+a:link {
+    color:red;
+
+}
+
+
+a:visited {
+    color:green;
+
+}
+
+a:hover {
+    color: #ffff00;
+
+}
+
+
+
+#headertwo {
+    color:blueviolet;
+
+}
+
+.threeheader {
+    color: hotpink;
+
+}
+
+.twoheader {
+    color:purple;
+
+}
+
+#headerthreeone {
+    color:salmon;
+}

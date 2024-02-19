@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+    background-image: url(ceelo5.jpg);
+    background-position: top left;
+}
+
+#mp1 {
+    text-align: center;
+}
+
+.justify {
+   width: 1250;
+    text-align: justify;
+   
+}
+
+h1 {
+    color:orange;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h2 {
+    color:orange;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h3 {
+    color:orange;
+    font-weight: normal;
+    font-style: italic;
+}
+
+h4 {
+    color:orange;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.imgbox {
+    border: 15px solid black;
+    padding: 5px;
+    margin: 15px;
+    background-color: yellow;
+}
